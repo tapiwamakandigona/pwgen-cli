@@ -1,0 +1,12 @@
+{
+  "name": "pwgen-cli",
+  "version": "1.0.0",
+  "description": "Secure password generator CLI with customizable rules",
+  "bin": { "pwgen": "dist/index.js" },
+  "main": "dist/index.js",
+  "scripts": { "build": "tsc", "test": "echo ok" },
+  "keywords": ["password", "generator", "security", "crypto", "cli"],
+  "author": "Tapiwa Makandigona",
+  "license": "MIT",
+  "devDependencies": { "typescript": "^5.3.0", "@types/node": "^20.0.0" }
+}
