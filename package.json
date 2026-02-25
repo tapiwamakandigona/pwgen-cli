@@ -8,5 +8,5 @@
   "keywords": ["password", "generator", "security", "crypto", "cli"],
   "author": "Tapiwa Makandigona",
   "license": "MIT",
-  "devDependencies": { "typescript": "^5.3.0", "@types/node": "^20.0.0" }
+  "devDependencies": { "typescript": "^5.3.0", "@types/node": "^25.3.0" }
 }
